@@ -1,0 +1,1 @@
+# cpanel-wordpress-bulk-clean-setup
