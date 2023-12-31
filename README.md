@@ -37,3 +37,4 @@ Why did I create this script?
 Approximately 900 websites of a customer of mine who uses WHM / cPanel were infected with the same virus.
 
 I wrote this script to clean this virus, which replicates itself in WordPress files, from core WordPress files.
+This script does not modify or delete wp-config.php and wp-content.
