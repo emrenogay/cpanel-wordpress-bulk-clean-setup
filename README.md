@@ -29,6 +29,8 @@ You need to change DOMAINS var with your domains. Like that;\
 \
 `nano copy.sh`
 \
+`chmod +x copy.sh`
+\
 `./copy.sh`
 
 Why did I create this script?
