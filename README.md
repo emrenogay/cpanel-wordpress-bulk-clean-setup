@@ -11,9 +11,8 @@ Enter the /root directory and download WordPress latest version at this step\
 `cd /root && wget https://wordpress.org/latest.zip && unzip latest.zip`
 
 Download script and do executable\
-`wget https://raw.githubusercontent.com/emrenogay/cpanel-wordpress-bulk-clean-setup/main/copy.sh`
-\
-`chmod +x copy.sh`
+`wget https://raw.githubusercontent.com/emrenogay/cpanel-wordpress-bulk-clean-setup/main/copy.sh
+chmod +x copy.sh`
 \
 \
 Edit copy.sh file for your domains\
